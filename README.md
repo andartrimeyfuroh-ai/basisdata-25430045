@@ -8,3 +8,9 @@
 
 \- Kelas : B
 
+\- Tema: Perpustakaan
+
+\- Organisasi fiktif: Perpustakaan cendikia AR
+
+\- Lingkup: perpustakaan ini melayani kenaggotaan,katalog,buku,peminjaman,pengembalian dan denda keterlambatan bagi mahasiswa
+
