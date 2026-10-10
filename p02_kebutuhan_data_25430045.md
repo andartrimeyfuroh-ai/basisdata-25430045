@@ -111,7 +111,7 @@ Tarif denda    : Rp1.000 / hari / buku
 
 | Proses                          | Anggota | Petugas | Judul | Eksemplar | Peminjaman | Detail | Denda |
 |---------------------------------|:-------:|:-------:|:-----:|:---------:|:----------:|:------:|:-----:|
-| PB-01 Daftar anggota            | C       | R       |       |           |            |        |       |
+| PB-01 Daftar anggota            | C, U    | R       |       |           |            |        |       |
 | PB-02 Catat peminjaman          | R       | R       | R     | R, U      | C          | C      | R     |
 | PB-03 Catat pengembalian & denda| R       | R       |       | R, U      | R          | U      | C     |
 | PB-04 Catat bayar denda         | R       | R       |       |           |            |        | U     |
